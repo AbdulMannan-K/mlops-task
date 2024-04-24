@@ -1,0 +1,5 @@
+outs:
+- md5: bd764d191f3d015f003734a29c07b964
+  size: 93158046
+  hash: md5
+  path: us_deaths.csv
